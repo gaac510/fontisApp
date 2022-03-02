@@ -1,0 +1,7 @@
+" [ale] Set StandardJS as the linter and fixer.
+let g:ale_linters = {
+\   'javascript':['standard'],
+\}
+let g:ale_fixers = {
+\   'javascript':['standard'],
+\}

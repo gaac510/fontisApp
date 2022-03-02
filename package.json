@@ -1,0 +1,14 @@
+{
+  "name": "fontis-ecommerce-app",
+  "version": "1.0.0",
+  "description": "A simple eCommerce app built for Fontis' programming challenge.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Yiling Wang",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^9.2.1",
+    "standard": "^16.0.4"
+  }
+}
