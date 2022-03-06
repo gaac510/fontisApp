@@ -4,7 +4,7 @@
 const assert = require('assert').strict
 const { Product, ShoppingCart } = require('../src/ecommerce')
 
-describe('fontis eCommerce app test suit', function () {
+describe('fontis eCommerce app test suite', function () {
   // Create test products. Prices are supplied in cents.
   const apple = new Product('Apple', 495)
   const orange = new Product('Orange', 399)
